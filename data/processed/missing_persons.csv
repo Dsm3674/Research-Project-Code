@@ -1,0 +1,6 @@
+State,Year,Total_Missing,AI_AN_Missing,AI_AN_Percent_Missing,AI_AN_Population_Percent,Overrepresentation_Ratio,Source
+Arizona,2020,15432,892,5.780196993260757,4.6,1.2565645637523386,State Missing Persons Reports
+New Mexico,2020,8901,534,5.999325918436131,8.9,0.6740815638692282,State Missing Persons Reports
+Montana,2020,2103,187,8.892058963385638,6.5,1.3680090712900983,State Missing Persons Reports
+Oklahoma,2020,12876,743,5.770425598011805,8.6,0.6709797206990471,State Missing Persons Reports
+Alaska,2020,3456,234,6.770833333333333,14.8,0.4574887387387387,State Missing Persons Reports

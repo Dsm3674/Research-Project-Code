@@ -1,0 +1,19 @@
+Year,Condition,AI_AN_Rate_per_100k,US_All_Races_Rate_per_100k,Disparity_Ratio,Source
+2015,Diabetes,183.75,78.75,2.3,IHS Reports/CDC Data
+2015,Suicide,23.1,14.700000000000001,1.6,IHS Reports/CDC Data
+2015,Chronic Liver Disease,47.25,12.600000000000001,3.8,IHS Reports/CDC Data
+2016,Diabetes,166.25,71.25,2.3,IHS Reports/CDC Data
+2016,Suicide,20.9,13.299999999999999,1.6,IHS Reports/CDC Data
+2016,Chronic Liver Disease,42.75,11.399999999999999,3.8,IHS Reports/CDC Data
+2017,Diabetes,175.0,75.0,2.3,IHS Reports/CDC Data
+2017,Suicide,22.0,14.0,1.6,IHS Reports/CDC Data
+2017,Chronic Liver Disease,45.0,12.0,3.8,IHS Reports/CDC Data
+2018,Diabetes,183.75,78.75,2.3,IHS Reports/CDC Data
+2018,Suicide,23.1,14.700000000000001,1.6,IHS Reports/CDC Data
+2018,Chronic Liver Disease,47.25,12.600000000000001,3.8,IHS Reports/CDC Data
+2019,Diabetes,166.25,71.25,2.3,IHS Reports/CDC Data
+2019,Suicide,20.9,13.299999999999999,1.6,IHS Reports/CDC Data
+2019,Chronic Liver Disease,42.75,11.399999999999999,3.8,IHS Reports/CDC Data
+2020,Diabetes,175.0,75.0,2.3,IHS Reports/CDC Data
+2020,Suicide,22.0,14.0,1.6,IHS Reports/CDC Data
+2020,Chronic Liver Disease,45.0,12.0,3.8,IHS Reports/CDC Data
